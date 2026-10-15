@@ -237,7 +237,7 @@ This roadmap will evolve as I complete topics and gain practical experience.
 
 
 
-<sub>These cards depend on external services and publicly available GitHub data. They may load slowly or become temporarily unavailable. Language statistics reflect repository code distribution, not skill level.</sub>
+
 
 ---
 
