@@ -245,7 +245,7 @@ This roadmap will evolve as I complete topics and gain practical experience.
 
 - **Technology exploration:** I enjoy understanding new tools and how they work.
 - **Problem solving:** I like breaking complicated problems into manageable pieces.
-- **Tech reading:** Exploring technology articles and engineering ideas.
+- **Tech reading:** Exploring technology articles and engineering ideas
 - **Psychology and humanities:** Reading about human behaviour, thinking, and perspectives.
 - **Bike rides:** Taking a break from the screen and exploring the road.
 
