@@ -1,272 +1,233 @@
-
-<!-- ═══════════════════════ HERO ═══════════════════════ -->
-
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:12304A,100:6D28D9&height=210&section=header&text=INDRAJEET&fontSize=58&fontColor=E6F7FF&animation=fadeIn&fontAlignY=36&desc=BUILDING%20SYSTEMS%20%7C%20LEARNING%20AI%2FML&descSize=15&descAlignY=58" width="100%" alt="Indrajeet — developer profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B16,50:12304A,100:6D28D9&height=220&section=header&text=VERTEX%20%2F%20INDRAJEET&fontSize=46&fontColor=E6F7FF&animation=fadeIn&fontAlignY=38&desc=%5B%20OK%20%5D%20Booting%20developer%20profile...&descSize=16&descAlignY=60" width="100%" alt="Indrajeet — boot banner"/>
 
   <a href="https://github.com/Indra9555">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Developer+in+Progress;Exploring+AI%2FML+%26+Intelligent+Systems;Building+RootCauseAI;Exploring+Linux+with+VertexOS;Learn.+Build.+Debug.+Repeat." alt="Animated introduction"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=700&lines=%24+sudo+become+developer;%24+git+commit+-m+%22learned+something+new%22;%24+docker+compose+up+rootcauseai;%24+ssh+into+the+future+--ai+--ml;%24+echo+%22Learn.+Build.+Debug.+Repeat.%22" alt="Terminal typing animation"/>
   </a>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/FOCUS-AI%2FML-22D3EE?style=for-the-badge&labelColor=080B16" alt="AI and machine learning focus"/>
-  <img src="https://img.shields.io/badge/LANGUAGE-Java-A78BFA?style=for-the-badge&labelColor=080B16" alt="Java"/>
-  <img src="https://img.shields.io/badge/ENVIRONMENT-Linux-22D3EE?style=for-the-badge&labelColor=080B16" alt="Linux"/>
-
-  <br/><br/>
-
-  <a href="https://github.com/Indra9555?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Repositories-A78BFA?style=flat-square&logo=github&logoColor=white" alt="Explore repositories"/>
-  </a>
-  <a href="https://github.com/Indra9555?tab=overview">
-    <img src="https://img.shields.io/badge/View-My_Profile-22D3EE?style=flat-square&logo=github&logoColor=black" alt="View GitHub profile"/>
-  </a>
+  <img src="https://img.shields.io/badge/PLAYER-Indrajeet-22D3EE?style=for-the-badge&labelColor=080B16" alt="Player"/>
+  <img src="https://img.shields.io/badge/CLASS-CSE_Student-A78BFA?style=for-the-badge&labelColor=080B16" alt="Class"/>
+  <img src="https://img.shields.io/badge/GRAD-2027-22D3EE?style=for-the-badge&labelColor=080B16" alt="Graduation 2027"/>
+  <img src="https://img.shields.io/badge/QUEST-Software_Internship-34D399?style=for-the-badge&labelColor=080B16" alt="Seeking internship"/>
 
 </div>
 
 ---
 
-## `01` — About Me
+## `>_` BIOS / Boot Log
 
-```bash
-$ whoami
-Indrajeet
+```text
+[  OK  ] Loaded kernel module: curiosity.ko
+[  OK  ] Mounted /home/indrajeet/projects
+[  OK  ] Started service: java.service ............. (Android + DSA)
+[  OK  ] Started service: python.service ........... (FastAPI + automation)
+[  OK  ] Started service: linux.service ............ (WSL2 / Ubuntu)
+[ WARN ] bugs.service restarted 47 times ........... (it's fine, we debug)
+[  OK  ] Reached target: ai-ml.target .............. (in progress)
+[ .... ] Waiting for: internship.target
 
-$ cat /etc/developer-profile
-Computer Science & Engineering student
-Developer in progress | Curious problem solver
-Interested in AI/ML, software systems and Linux
-
-$ current_mission
+indrajeet@dev:~$ cat mission.txt
 Learn the fundamentals.
 Build real projects.
 Understand how systems work.
 Improve through consistent practice.
 ```
 
-I'm a Computer Science and Engineering student focused on strengthening my programming fundamentals while building practical software projects.
-
-I'm particularly interested in the intersection of **AI/ML, backend engineering, and system-level computing**. I enjoy exploring how software works behind the scenes, experimenting with technologies, and turning ideas into working implementations.
-
-Rather than claiming to know everything, I believe in learning by building, debugging, documenting, and improving.
-
-- Currently strengthening **Java, DSA, and Python**.
-- Exploring the foundations of **AI/ML engineering**.
-- Developing **RootCauseAI**, a platform for software failure root-cause analysis.
-- Exploring Linux and operating-system concepts through **VertexOS**.
-- Interested in backend systems, developer tools, and understanding technology at a deeper level.
-
 > `Curiosity is the starting point. Consistent execution is the difference.`
 
 ---
 
-## `02` — Featured Projects
+## `🎮` Character Sheet
 
 <div align="center">
 
-### ⚡ RootCauseAI
-
-**AI-assisted software failure root-cause analysis**
-
-</div>
-
-A project focused on helping developers investigate software failures by bringing together application telemetry, logs, metrics, and potential root-cause insights.
-
-**Current implementation highlights**
-- FastAPI backend with a health-check endpoint.
-- Log telemetry ingestion through an API endpoint.
-- PostgreSQL-backed development environment.
-- Docker-based database setup.
-- A foundation for future anomaly detection, event correlation, and root-cause recommendations.
-
-**Technology direction**
-
-`Python` · `FastAPI` · `PostgreSQL` · `Docker` · `AI/ML`
-
-**Status:** In development. Advanced analysis and recommendation capabilities are planned, not claimed as completed.
-
-<div align="center">
-
-  <a href="https://github.com/Indra9555/RootCauseAI">
-    <img src="https://img.shields.io/badge/Explore-RootCauseAI-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="Explore RootCauseAI"/>
-  </a>
+| | |
+|:--|:--|
+| **Name** | Indrajeet |
+| **Class** | B.Tech CSE · SRMU · batch of 2027 |
+| **Main weapons** | `Java` · `Python` |
+| **Side arms** | `FastAPI` · `PostgreSQL` · `Docker` · `Firebase` |
+| **Home base** | Linux (Ubuntu on WSL2) |
+| **Specialisation (loading)** | AI/ML · Backend · Systems |
+| **Passive skills** | Debugging, patience, reading about psychology |
+| **Mount** | 🏍️ Bike (for screen-break side quests) |
+| **Current quest** | Land a software development internship |
 
 </div>
 
----
-
-<div align="center">
-
-### 🖥️ VertexOS
-
-**Exploring operating-system development**
-
-</div>
-
-VertexOS is my long-term learning project for exploring the foundations of operating systems and Linux-based development.
-
-The journey begins with understanding the Linux environment, development tools, command-line workflows, and the fundamentals needed to progress toward lower-level system development.
-
-**Current focus**
-- Setting up and understanding an Ubuntu environment through WSL2.
-- Practising Linux commands and development workflows.
-- Learning Git and maintaining a structured development process.
-- Building the foundation for future OS-related implementation milestones.
-
-**Technology direction**
-
-`Linux` · `Ubuntu` · `WSL2` · `Git` · `System Programming`
-
-**Status:** Early-stage learning and environment setup. Kernel development and advanced OS features are future milestones.
-
-<div align="center">
-
-  <a href="https://github.com/Indra9555?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-VertexOS_Repository- A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Find VertexOS in my repositories"/>
-  </a>
-
-</div>
-
-> **Project link note:** The RootCauseAI link is included directly. The VertexOS button points to your repositories because its exact repository URL has not been confirmed. Replace that URL with the direct VertexOS repository link when available.
-
----
-
-## `03` — Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java and Python icons"/>
-
-### Backend, Database & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker&theme=dark" alt="FastAPI, PostgreSQL and Docker icons"/>
-
-### Development Environment & Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark" alt="Git, GitHub, VS Code, Linux and Ubuntu icons"/>
-
-</div>
-
-**Learning principle:** A technology appearing here represents my current development or learning toolkit—not a claim of professional mastery.
-
----
-
-## `04` — AI/ML & Problem-Solving Journey
-
-My long-term direction is AI/ML engineering, built on a strong foundation in programming, data structures, algorithms, and software development.
-
-| Area | Current direction |
-|---|---|
-| Programming | Java and Python fundamentals |
-| DSA | Structured problem-solving practice using Java |
-| Mathematics | Build the foundations needed for machine learning |
-| Machine learning | Study concepts, algorithms, and practical implementations |
-| Projects | Apply what I learn to real software problems |
-| Engineering | Improve debugging, Git workflows, APIs, and system design |
-
-**My approach:** Learn a concept → implement it → test it → document it → use it in a project.
-
----
-
-## `05` — Current Learning Roadmap
+### Skill tree (honest self-assessment, not a mastery claim)
 
 ```text
-[01] Programming Fundamentals
-     ├── Java
-     ├── Python
-     └── Writing clean, understandable code
-
-[02] Data Structures & Algorithms
-     ├── Core data structures
-     ├── Algorithmic problem solving
-     └── Time and space complexity
-
-[03] Software Engineering
-     ├── Git and GitHub
-     ├── REST APIs and backend development
-     ├── Databases and Docker
-     └── Debugging and testing
-
-[04] AI / Machine Learning
-     ├── Mathematics and statistics
-     ├── NumPy, pandas and data analysis
-     ├── ML algorithms and evaluation
-     └── Practical ML projects
-
-[05] Systems Exploration
-     ├── Linux and command-line tools
-     ├── Operating-system fundamentals
-     └── Incremental development of VertexOS
+Java ............ ████████░░  building apps + DSA practice
+Python .......... ███████░░░  FastAPI backends, scripts
+Android ......... ███████░░░  ConnectHub, Firebase
+Git / Linux ..... ██████░░░░  daily workflow
+Databases ....... █████░░░░░  PostgreSQL, Docker setups
+AI / ML ......... ███░░░░░░░  fundamentals phase  → leveling up
+OS internals .... ██░░░░░░░░  VertexOS journey just begun
 ```
-
-This roadmap will evolve as I complete topics and gain practical experience.
 
 ---
 
-## `06` — GitHub Activity
+## `🚀` Featured Projects
+
+### ⚡ RootCauseAI &nbsp;·&nbsp; *in development*
+Find out **why** software broke, not just that it broke.
+
+```mermaid
+flowchart LR
+    A["App logs and telemetry"] -->|POST ingest| B["FastAPI backend"]
+    B --> C[("PostgreSQL")]
+    B --> H["Health check endpoint"]
+    C -.-> D["Anomaly detection"]:::planned
+    D -.-> E["Event correlation"]:::planned
+    E -.-> F["Root-cause recommendations"]:::planned
+
+    classDef planned stroke-dasharray: 5 5,stroke:#A78BFA,color:#A78BFA
+```
+
+<sub>Solid lines are built today. Dashed purple nodes are planned, not claimed as finished.</sub>
+
+`Python` · `FastAPI` · `PostgreSQL` · `Docker`
+
+<div align="center">
+  <a href="https://github.com/Indra9555/RootCauseAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Indra9555&repo=RootCauseAI&theme=tokyonight&hide_border=true&bg_color=080B16&title_color=22D3EE&icon_color=A78BFA" alt="RootCauseAI repository card"/>
+  </a>
+</div>
+
+---
+
+### 💬 ConnectHub &nbsp;·&nbsp; *Android*
+A chat and social app for Android, with real-time features powered by Firebase.
+
+`Java` · `Android` · `Firebase`
+
+---
+
+### 🖥️ VertexOS &nbsp;·&nbsp; *early-stage learning*
+A long-term journey from "I use Linux" to "I understand what's underneath it".
+
+```text
+Level 1  ▓▓▓▓▓░░░░░  Ubuntu on WSL2, shell workflows, Git discipline    ← you are here
+Level 2  ░░░░░░░░░░  C and low-level fundamentals
+Level 3  ░░░░░░░░░░  Boot process, memory, processes
+Level 4  ░░░░░░░░░░  A tiny kernel of my own
+```
+
+<sub>Levels 2 to 4 are future milestones, not completed work.</sub>
+
+`Linux` · `Ubuntu` · `WSL2` · `Git`
+
+---
+
+## `📜` Quest Log
+
+```text
+[x] Build ConnectHub, an Android chat/social app (Java + Firebase)
+[x] Ship the RootCauseAI foundation: FastAPI + PostgreSQL + Docker
+[x] Complete summer training at Netcamp Solutions (Jun to Jul 2026)
+[ ] Strengthen DSA in Java, one problem at a time
+[ ] Learn the math and stats behind machine learning
+[ ] Add anomaly detection to RootCauseAI
+[ ] Make VertexOS boot something, anything
+[ ] Land a software development internship          ← MAIN QUEST
+```
+
+<details>
+<summary><b>🧪 My learning loop (click to expand)</b></summary>
+
+```text
+   ┌──────────┐    ┌───────────┐    ┌────────┐    ┌──────────┐    ┌────────────┐
+   │  LEARN   │ ─▶ │ IMPLEMENT │ ─▶ │  TEST  │ ─▶ │ DOCUMENT │ ─▶ │ USE IN A   │
+   │ a concept│    │  it       │    │  it    │    │  it      │    │ PROJECT    │
+   └──────────┘    └───────────┘    └────────┘    └──────────┘    └─────┬──────┘
+        ▲                                                                │
+        └──────────────────────  repeat  ◀───────────────────────────────┘
+```
+
+</details>
+
+---
+
+## `🧰` Inventory
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Indra9555&show_icons=true&hide_border=true&bg_color=080B16&title_color=22D3EE&icon_color=A78BFA&text_color=E6F7FF&rank_icon=github" alt="GitHub statistics for Indrajeet"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra9555&layout=compact&hide_border=true&bg_color=080B16&title_color=22D3EE&text_color=E6F7FF" alt="Most-used programming languages"/>
-
-  <br/><br/>
-
-  <img width="75%" src="https://streak-stats.demolab.com?user=Indra9555&theme=tokyonight&hide_border=true&background=080B16&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="GitHub contribution streak"/>
-
-  <br/><br/>
-
-  
-
-## `06` — GitHub Activity
-
-<div align="center">
-
-  <img
-    src="./assets/contribution-graph.svg"
-    alt="Indrajeet's GitHub contribution activity"
-    width="100%"
-  />
+<img src="https://skillicons.dev/icons?i=java,python,androidstudio,firebase&theme=dark" alt="Languages and Android"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,docker&theme=dark" alt="Backend and infrastructure"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu&theme=dark" alt="Tools and environment"/>
 
 </div>
 
+---
 
+## `📈` Telemetry
 
+<div align="center">
 
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Indra9555&show_icons=true&hide_border=true&bg_color=080B16&title_color=22D3EE&icon_color=A78BFA&text_color=E6F7FF&rank_icon=github" alt="GitHub statistics"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indra9555&layout=compact&hide_border=true&bg_color=080B16&title_color=22D3EE&text_color=E6F7FF" alt="Top languages"/>
+
+  <br/><br/>
+
+  <img width="75%" src="https://streak-stats.demolab.com?user=Indra9555&theme=tokyonight&hide_border=true&background=080B16&ring=22D3EE&fire=A78BFA&currStreakLabel=22D3EE" alt="Contribution streak"/>
+
+  <br/><br/>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Indra9555&bg_color=080B16&color=22D3EE&line=A78BFA&point=E6F7FF&area=true&hide_border=true" alt="Contribution activity graph"/>
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Indra9555&theme=onedark&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub trophies"/>
+
+</div>
 
 ---
 
-## `07` — Beyond the Code
+## `🕹️` Side Quests
 
-- **Technology exploration:** I enjoy understanding new tools and how they work.
-- **Problem solving:** I like breaking complicated problems into manageable pieces.
-- **Tech reading:** Exploring technology articles and engineering ideas
-- **Psychology and humanities:** Reading about human behaviour, thinking, and perspectives.
-- **Bike rides:** Taking a break from the screen and exploring the road.
+- 🔍 **Under the hood:** I can't use a tool without wondering how it works.
+- 🧩 **Puzzle mode:** big problem in, small pieces out.
+- 📖 **Lore:** engineering articles, psychology and the humanities.
+- 🏍️ **Bike rides:** the best debugger is a road with no screen.
 
-I value curiosity, patience, and steady progress over shortcuts.
+<details>
+<summary><b>🥚 Easter egg (click if you dare)</b></summary>
+
+```text
+indrajeet@dev:~$ sudo rm -rf doubt/
+[sudo] password for indrajeet: ********
+rm: cannot remove 'doubt/': Directory not empty
+rm: hint: try 'git commit', 'git push', 'repeat'
+```
+
+</details>
 
 ---
-
-## `08` — Connect
 
 <div align="center">
 
   <a href="https://github.com/Indra9555">
     <img src="https://img.shields.io/badge/GitHub-Indra9555-22D3EE?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
   </a>
+  <a href="https://github.com/Indra9555?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Repositories-A78BFA?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
 
   <br/><br/>
 
-  *Interested in software engineering, AI/ML, developer tools, and systems exploration.*
+  ```text
+  indrajeet@dev:~$ shutdown -h later   # not today
+  ```
 
   **Learn continuously. Build deliberately. Improve relentlessly.**
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:12304A,100:080B16&height=110&section=footer" width="100%" alt="Decorative profile footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:12304A,100:080B16&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
